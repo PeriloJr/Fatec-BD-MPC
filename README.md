@@ -35,7 +35,8 @@ Conteúdo gerado pelo usuário (UGC), alternativamente conhecido como conteúdo 
 
 ## 4 – Conclusão
 A adoção de animais vêm ganhando cada vez mais visibilidade com campanhas de conscientização que sugerem a adoção ao invés da compra de animais. Neste artigo, foi apresentada a proposta de um aplicativo que visa a facilidade de divulgação para animais de extimação, sejam estes animais de ONGs ou de pessoas que buscam um novo lar para seus animais, além disso trará a facilidade para as pessoas encontrarem algum animal que se enquadre em seu perfil através de filtros e informações rápidas a respeito do animal.
-Este trabalho poderá possuir grande visibilidade para órgãos públicos e também para conscientização da população a respeito da quantidade de animais disponíveis para adoção, principalmente após os últimos anos onde foi possível observar um grande número de animais nesta condição.
+
+Este trabalho poderá possuir grande visibilidade para órgãos públicos e também para conscientização da população a respeito da quantidade de animais disponíveis para adoção, principalmente após os últimos anos onde foi possível observar um aumento significativo no número de animais nesta condição.
 
 ## 5 – Referencias
 CRMV-SP (2019). Perigo Animais de Rua.
