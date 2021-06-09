@@ -1,7 +1,7 @@
 # Adopet :dog2:
 ## Fatec Jessen Vidal - São José Dos Campos - SP 
 ## Perilo Carvalho de Oliveira Junior
-## 1-	Motivação
+## 1-	Introdução
 Em 2018 foram apontados dados que existem cerca de 30 milhões de animais abandonados pelas ruas, cerca de 10 milhões de gatos e 20 milhões de cachorros no país [CRMV-SP]. Pesquisas populares realizadas levantaram que a cada dez pessoas, seis abandonariam seus animais de estimação caso se mudassem de casa [Cães&Gatos Vet Food].
 
 Os animais nas ruas passam são submetidos a situações péssimas de vida e representam um sério risco a saúde pública pois podem transmitir doenças como raiva, leishmaniose e outros tipos de zoonoses [CRMV-SP], além de poderem promover outros problemas sociais como acidentes de trânsito e possíveis ataques. Desta maneira, é de extrema importância um controle destes animais para uma maior segurança para a população.
