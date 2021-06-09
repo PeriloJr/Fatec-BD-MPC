@@ -26,7 +26,7 @@ Conteúdo gerado pelo usuário (UGC), alternativamente conhecido como conteúdo 
 ##
 ## 3 – Metodologia e métodos
 ### 3.1 – Página de login<br>
-![image](https://user-images.githubusercontent.com/71049428/121273158-f6be0100-c89d-11eb-8c02-695c41b7ff2f.png)
+![image](https://user-images.githubusercontent.com/71049428/121434047-1fec9900-c953-11eb-8231-98bb639da2b4.png)
 <br>
 ### 3.2 – Funcionamento da aplicação<br>
 ![image](https://user-images.githubusercontent.com/71049428/121274114-2a018f80-c8a0-11eb-9db3-ca9210e089be.png)
